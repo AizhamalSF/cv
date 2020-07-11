@@ -42,7 +42,7 @@
             }
         },
         { 
-            University : 'Abay KazNPU',
+            University : 'AUCA',
             Major : 'BA in Education',
             academicYears : 2007-2011,
             location : 'Almaty, Kazakhstan',
